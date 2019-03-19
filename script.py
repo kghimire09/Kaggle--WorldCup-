@@ -1,4 +1,4 @@
-import codecademylib3_seaborn
+
 import matplotlib from pyplot as plt
 import pandas as pd
 import seaborn as sns
